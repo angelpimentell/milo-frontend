@@ -1,3 +1,10 @@
+import Navbar from "@/app/components/main/Navbar";
+
 export default function Page({ params }: { params: { cartId: string } }) {
-    return <h1>Product {params.cartId}</h1>
+    return (
+        <>
+            <Navbar />
+            <h1>Cart {params.cartId}</h1>
+        </>
+    )
 }
