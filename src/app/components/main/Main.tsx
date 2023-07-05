@@ -8,7 +8,7 @@ export default function Main() {
             imageAlt: "camisa",
             name: "camisa",
             price: "$10",
-            href: "#"
+            href: "/products/1"
         },
         {
             id: 2,
@@ -16,7 +16,7 @@ export default function Main() {
             imageAlt: "camisa",
             name: "camisa",
             price: "$10",
-            href: "#"
+            href: "/products/2"
         },
         {
             id: 3,
@@ -24,7 +24,7 @@ export default function Main() {
             imageAlt: "camisa",
             name: "camisa",
             price: "$10",
-            href: "#"
+            href: "/products/3"
         }
     ]
 
