@@ -1,10 +1,11 @@
 import Navbar from "@/app/components/main/Navbar";
+import CartList from "../components/CartList";
 
 export default function Page() {
     return (
         <>
             <Navbar />
-            <h1>Cart</h1>
+            <CartList />
         </>
     )
 }
