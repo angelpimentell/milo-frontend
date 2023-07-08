@@ -5,25 +5,25 @@ export default function Main() {
         {
             id: 1,
             imageSrc: "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-            imageAlt: "camisa",
-            name: "camisa",
-            price: "$10",
+            imageAlt: "Graphic T-shirt",
+            name: "Graphic T-shirt",
+            price: "$299.99",
             href: "/products/1"
         },
         {
             id: 2,
             imageSrc: "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-            imageAlt: "camisa",
-            name: "camisa",
-            price: "$10",
+            imageAlt: "Polo Shirt",
+            name: "Polo Shirt",
+            price: "$   149.99",
             href: "/products/2"
         },
         {
             id: 3,
             imageSrc: "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
-            imageAlt: "camisa",
-            name: "camisa",
-            price: "$10",
+            imageAlt: "T-shirt",
+            name: "T-shirt",
+            price: "$259.99",
             href: "/products/3"
         }
     ]
